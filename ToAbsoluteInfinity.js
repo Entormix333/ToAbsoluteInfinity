@@ -4,7 +4,7 @@ import { parseBigNumber, BigNumber } from "../api/BigNumber";
 import { theory } from "../api/Theory";
 import { Utils } from "../api/Utils";
 var id = "?";
-var name = "to Infinity!";
+var name = "to Absolute Infinity!";
 var description = "huh";
 var authors = "nobody";
 var version = 1;
